@@ -1,0 +1,1 @@
+Linux is a free, open-source operating system (OS) known for flexibility, stability, and security, built around a powerful kernel (the core that manages hardware) and used in servers, smartphones (Android), supercomputers, and devices like smart TVs, offering a robust alternative to Windows and macOS
